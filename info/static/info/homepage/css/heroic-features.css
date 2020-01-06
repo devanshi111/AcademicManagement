@@ -6,7 +6,8 @@
 
 body {
   padding-top: 54px;
-  background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-fresh-book-student-advertising-background-backgroundwhite-bordercloudhand-paintedbookfreshstudentcloud-image_68054.jpg");
+  background-color: white;
+  background-image: url("https://i.pinimg.com/originals/92/59/65/9259654da727c0f2adcc1721ee1d1c7c.jpg");
 }
 
 @media (min-width: 992px) {
