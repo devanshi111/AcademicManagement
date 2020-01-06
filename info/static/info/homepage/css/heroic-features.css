@@ -6,7 +6,8 @@
 
 body {
   padding-top: 54px;
-  background-color: #ffffcc ;
+  background-color: white;
+  background-image: url("https://i.pinimg.com/originals/92/59/65/9259654da727c0f2adcc1721ee1d1c7c.jpg");
 }
 
 @media (min-width: 992px) {
